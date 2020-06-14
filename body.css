@@ -1,0 +1,30 @@
+body
+{
+    border-width: 2px;
+    border-color:#686D79 ;
+    border-style: dotted;
+    border-radius: 20px;
+padding: 20px;
+background-image: url(https://www.pcclean.io/wp-content/uploads/2020/4/YNrM7b.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+
+div{ 
+    width:500px;
+    height: 30px;
+    border-width: 2px;
+    border-color: rgb(236, 236, 236);
+    border-style: ridge;
+    border-radius: 10px;
+    padding: 4px;
+
+}
+.imglanguages
+{
+float: right;
+width: 500px;
+padding-bottom: 0px;
+}
